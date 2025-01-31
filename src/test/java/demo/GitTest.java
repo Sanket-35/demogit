@@ -12,6 +12,12 @@ public class GitTest {
 	
 	public void test() {
 		System.out.println("git hub and git are seperate tools");
+		System.out.println("git hub and git are seperate tools");
+	}
+	
+	public void test1() {
+		System.out.println("git hub and git are seperate tools");
+		System.out.println("git hub and git are seperate tools");
 	}
 
 }
