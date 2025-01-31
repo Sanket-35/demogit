@@ -10,6 +10,7 @@ public class GitDemoTest {
 	public void test1() {
 		
 		System.out.println("git second commit");
+		System.out.println("git second commit");
 	}
 
 }
